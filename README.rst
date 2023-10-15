@@ -27,6 +27,7 @@ Table of Contents
 
 The "g" key is pressed
 ----------------------
+In this age and time, the internet has been integrated into the lifestyles of the average human and the world is getting even more advanced. We watch videos, read news, access educative materials, and do all sorts on the internet. Google literally has the answer to every daily question, and you can access all that knowledge simply by typing google.com (or any other domain name, e.g. facebook.com) in your browser and hitting `enter`.
 The following sections explain the physical keyboard actions
 and the OS interrupts. When you press the key "g" the browser receives the
 event and the auto-complete functions kick in.
